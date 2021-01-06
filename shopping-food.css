@@ -1,0 +1,26 @@
+.plats{
+    float: left;
+    width:70%;
+    border-right: thick double #32a1ce;
+}
+.panier{
+    float: left;
+    width: 28%;
+}
+.panier-header{
+    margin-top: 0%;
+    text-align: center;
+}
+.image-plat{
+    width: 300px;
+    height: 300px;
+}
+.like-heart{
+    width: 31px;
+    height: 20px;
+    background-image:url('img/heart.png')
+}
+.like-heart.selected{
+    background-image:url('img/heart-selected.png')
+
+}
